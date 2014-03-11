@@ -1,0 +1,13 @@
+---
+layout: page
+title: Seiten
+header: Alle Seiten
+group: navigation
+---
+{% include JB/setup %}
+
+<h2>Übersicht</h2>
+<ul>
+{% assign pages_list = site.pages %}
+{% include JB/pages_list %}
+</ul>
