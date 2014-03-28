@@ -2,6 +2,7 @@
 layout: page
 title: Arbeitsgruppe
 group: navigation
+permalink: arbeitsgruppe.html
 comments: true
 ---
 {% include JB/setup %}

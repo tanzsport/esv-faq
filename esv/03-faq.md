@@ -2,6 +2,7 @@
 layout: page
 title: FAQs
 group: navigation
+permalink: faq.html
 comments: true
 ---
 {% include JB/setup %}

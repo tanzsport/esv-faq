@@ -2,6 +2,7 @@
 layout: page
 title: Zeitplan
 group: navigation
+permalink: zeitplan.html
 comments: true
 ---
 {% include JB/setup %}

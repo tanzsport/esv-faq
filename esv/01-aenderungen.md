@@ -2,6 +2,7 @@
 layout: page
 title: Änderungen im Überblick
 group: navigation
+permalink: aenderungen.html
 comments: true
 ---
 {% include JB/setup %}
