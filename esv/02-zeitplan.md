@@ -11,7 +11,8 @@ comments: true
 Beginn des kombinierten Bestellprozesses Start- und Lizenzmarken/ID-Karten über das Vereinsportal (Paare Einzelwettbewerbe, Lizenzträger TL/WR)
 
 **1. Januar 2015**  
-Start in Einzelwettbewerben/Tätigkeit als TL/WR nur noch mit gültiger ID-Kartenbestellung möglich; gültige Start- und Lizenzmarke weiterhin erforderlich
+Start in Einzelwettbewerben/Tätigkeit als TL/WR nur noch mit gültiger ID-Kartenbestellung möglich; gültige Start- und Lizenzmarke weiterhin erforderlich  
+Beginn der verpflichtenden Online-Startmeldung für alle Einzelwettbewerbe
 
 **Früjahr 2015**  
 Ausgabe/Versand der ID-Karten für Paare in Einzelwettbewerben und Lizenzträger TL/WR
