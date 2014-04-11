@@ -15,7 +15,7 @@ Start in Einzelwettbewerben/Tätigkeit als TL/WR nur noch mit gültiger ID-Karte
 Beginn der verpflichtenden Online-Startmeldung für alle Einzelwettbewerbe  
 Bei Turnierabwicklung mit dem PC darf nur noch ESV-zertifizierte Turniersoftware eingesetzt werden
 
-**Früjahr 2015**  
+**Frühjahr 2015**  
 Ausgabe/Versand der ID-Karten für Paare in Einzelwettbewerben und Lizenzträger TL/WR
 
 **1. Juli 2015**  
