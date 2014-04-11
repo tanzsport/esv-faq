@@ -6,6 +6,12 @@ comments: true
 ---
 {% include JB/setup %}
 
+## Neuigkeiten ##
+
+[Zertifizierung](esv/zertifizierung.html) von Turnierprogrammen (11. April 2014)
+
+## Einleitung ##
+
 Es war nur eine kurze Anmerkung im Tanzspiegel 6/13 auf Seite 37, mit der das Projekt „*Elektronische Sportverwaltung im DTV*“ (ESV) angekündigt wurde. Und im Tanzspiegel 1/14 weist Franz Allert im Editorial ebenfalls kurz auf das Projekt hin. Was steckt dahinter? – Kurz gesagt nichts weniger als die Umstellung auf ein elektronisches Online-Startbuch. Das bisherige Papier-Startbuch wird also zugunsten eines Internetportals und einer neu aufgebauten Datenbank (ESV-Datenbank) verschwinden. Sportler und Lizenzträger erhalten eine ID-Karte mit ID-Nummer – die Zusammensetzung von Paaren und Formationen Standard/Latein/JMD, Small Groups, Duos und Solisten werden in der ESV-Datenbank festgehalten. 
 Bei Einzelwettbewerben sind die Partnern dort gleichberechtigt – jeder bekommt gleiche Zugangsrechte zu den Daten und den eigenen Turnierergebnissen. Mannschaften werden durch den Verein verwaltet.Das ESV-System wird eine zentrale Ergebnisdatenbank aller Turniere in Deutschland enthalten.Die Startmeldungen zu den Turnieren werden ausschließlich elektonisch erfolgen. Sie werden – zusammen mit den Statusinformation der Sportler – elektronisch an die Turnierprogramme übergeben, und die Turnierprogramme melden die Turnierergebnisse ebenfalls elektronisch an die ESV-Datenbank zurück.Alle sonstigen Anmeldungen und Veränderungen werden ebenfalls online erfolgen: Partnerwechsel, Vereinswechsel, Startmeldung, Wechsel der Startgruppe, Auslandsstarts und Schautänze.## Aus dem Bericht des Bundessportwarts ##
 Michael Eichert schreibt in seinem Jahresbericht:
