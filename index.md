@@ -8,6 +8,7 @@ comments: true
 
 ## Neuigkeiten ##
 
+Weitere Informationen zum [Grenzverkehr](esv/faq.html#grenzverkehr) (06. Mai 2014)  
 [Zertifizierung](esv/zertifizierung.html) von Turnierprogrammen (11. April 2014)
 
 ## Einleitung ##
