@@ -2,7 +2,7 @@
 layout: page
 title: Zeitplan
 group: navigation
-permalink: zeitplan.html
+permalink: /esv/zeitplan.html
 comments: true
 ---
 {% include JB/setup %}

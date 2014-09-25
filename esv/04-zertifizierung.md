@@ -2,7 +2,7 @@
 layout: page
 title: Zertifizierung
 group: navigation
-permalink: zertifizierung.html
+permalink: /esv/zertifizierung.html
 comments: true
 ---
 {% include JB/setup %}

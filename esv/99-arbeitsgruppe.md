@@ -2,7 +2,7 @@
 layout: page
 title: Arbeitsgruppe
 group: navigation
-permalink: arbeitsgruppe.html
+permalink: /esv/arbeitsgruppe.html
 comments: true
 ---
 {% include JB/setup %}

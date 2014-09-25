@@ -2,7 +2,7 @@
 layout: page
 title: Änderungen im Überblick
 group: navigation
-permalink: aenderungen.html
+permalink: /esv/aenderungen.html
 comments: true
 ---
 {% include JB/setup %}
