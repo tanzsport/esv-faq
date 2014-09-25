@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Änderungen im Überblick
+title: Änderungen
 group: navigation
 permalink: /esv/aenderungen.html
 comments: true
