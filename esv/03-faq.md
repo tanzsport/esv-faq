@@ -19,7 +19,7 @@ comments: true
 * [Verschiedenes](#verschiedenes)
 
 <a name="idkarten"> </a>
-### ID-Karten ###	
+### ID-Karten ###
 
 **Wie sieht der Zeitplan für den Übergang vom Startbuch zur ID-Karte aus?**
 Der Zeitplan für die Einführung des ESV-Systems sieht vor, dass die erforderlichen Informationen für die ID-Karten mit den Lizenz-Meldungen für das Jahr 2015 erfasst werden. Die Karten selber werden voraussichtlich im ersten Quartal 2015 ausgegeben. Ab Juli 2015 wird die ESV-Datenbank bereitstehen – schrittweise trägt dann der Vereinssportwart für jedes Paar die erreichte Startklasse, Punkte und Platzierungen in die ESV-Datenbank ein. Dies wird in dem Startbuch gekennzeichnet – weitere Einträge sind dann nicht mehr zulässig. Den Zeitpunkt stimmt er mit seinen Paaren ab – es kann für jedes Paar ein anderer Termin sein, aber man sollte seinem Sportwart das Leben nicht allzu schwer machen.
