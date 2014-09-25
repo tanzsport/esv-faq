@@ -9,6 +9,8 @@ comments: true
 
 Ab diesem Jahr wird die Anforderung der Start- und Lizenzmarken (Standard, Latein)  nur noch online möglich sein. Die Vereine mit Turnierpaaren, Wertungsrichtern und/oder Turnierleitern haben bereits ein Anschreiben inkl. Anleitung per Post erhalten. Der Bereich JMD ist davon nur hinsichtlich der Wertungsrichter/innen betroffen. Startmarken für Formationen Standard/Latein werden weiterhin auf dem Papierformular bestellt.
 
+**Obwohl im Rahmen der Bestellung die ID-Kartenbestellung für den ESV-Start am 1. Juli 2015 erfolgt, werden für das erste Halbjahr 2015 weiterhin Start- und Lizenzmarken benötigt. Diese werden wie bisher, rechtzeitige Bestellung vorausgesetzt, zum Jahresende versandt.**
+
 * [Anschreiben](../assets/JL_Anschreiben.pdf) der DTV-Geschäftsstelle
 * schrittweise [Anleitung](../assets/JL_Anleitung.pdf) für den Bestellprozess
 * [Anleitung](../assets/Anleitung_Bildbearbeitung_PictureManager.pdf) zur Bildbearbeitung mit Microsoft Picture Manager
