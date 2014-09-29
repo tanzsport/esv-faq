@@ -8,6 +8,7 @@ comments: true
 
 ## Neuigkeiten ##
 
+Nutzungsbedingungen ID-Karte unter [Bestellung 2015](esv/bestellung2015.html) (29. September 2015)  
 Informationen zur [Lizenz- und Startmarkenbestellung für 2015](esv/bestellung2015.html) (25. September 2015)  
 Weitere Informationen zum [Grenzverkehr](esv/faq.html#grenzverkehr) (06. Mai 2014)  
 [Zertifizierung](esv/zertifizierung.html) von Turnierprogrammen (11. April 2014)

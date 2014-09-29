@@ -14,6 +14,7 @@ Ab diesem Jahr wird die Anforderung der Start- und Lizenzmarken (Standard, Latei
 * [Anschreiben](../assets/JL_Anschreiben.pdf) der DTV-Geschäftsstelle
 * schrittweise [Anleitung](../assets/JL_Anleitung.pdf) für den Bestellprozess
 * [Anleitung](../assets/Anleitung_Bildbearbeitung_PictureManager.pdf) zur Bildbearbeitung mit Microsoft Picture Manager
+* [Nutzungsbedingungen ID-Karte](../assets/Nutzungsbedingungen_20140922.pdf)
 
 ### Telefon-Hotline ###
 
