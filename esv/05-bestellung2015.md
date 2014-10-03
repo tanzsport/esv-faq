@@ -11,10 +11,17 @@ Ab diesem Jahr wird die Anforderung der Start- und Lizenzmarken (Standard, Latei
 
 **Obwohl im Rahmen der Bestellung die ID-Kartenbestellung für den ESV-Start am 1. Juli 2015 erfolgt, werden für das erste Halbjahr 2015 weiterhin Start- und Lizenzmarken benötigt. Diese werden wie bisher, rechtzeitige Bestellung vorausgesetzt, zum Jahresende versandt.**
 
+**Allgemeine Informationen**
+
 * [Anschreiben](../assets/JL_Anschreiben.pdf) der DTV-Geschäftsstelle
 * schrittweise [Anleitung](../assets/JL_Anleitung.pdf) für den Bestellprozess
 * [Anleitung](../assets/Anleitung_Bildbearbeitung_PictureManager.pdf) zur Bildbearbeitung mit Microsoft Picture Manager
 * [Nutzungsbedingungen ID-Karte](../assets/Nutzungsbedingungen_20140922.pdf)
+
+**Vorlagen für Clubsportwarte**
+
+* Vorlage für [Infoschreiben](../assets/Vorlage_Infoschreiben.doc)
+* Vorlage für vereinsinterne Checkliste: [Paare](../assets/Checkliste_Paare.doc) - [Lizenzträger](../assets/Checkliste_Lizenzträger.doc)
 
 ### Telefon-Hotline ###
 
