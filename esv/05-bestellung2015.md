@@ -21,7 +21,7 @@ Ab diesem Jahr wird die Anforderung der Start- und Lizenzmarken (Standard, Latei
 **Vorlagen für Clubsportwarte**
 
 * Vorlage für [Infoschreiben](../assets/Vorlage_Infoschreiben.doc)
-* Vorlage für vereinsinterne Checkliste: [Paare](../assets/Checkliste_Paare.doc) - [Lizenzträger](../assets/Checkliste_Lizenzträger.doc)
+* Vorlage für vereinsinterne Checkliste: [Paare](../assets/Checkliste_Paare.doc) - [Lizenzträger](../assets/Checkliste_Lizenztraeger.doc)
 
 ### Telefon-Hotline ###
 
