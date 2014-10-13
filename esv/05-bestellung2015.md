@@ -25,7 +25,7 @@ Ab diesem Jahr wird die Anforderung der Start- und Lizenzmarken (Standard, Latei
 
 ### Telefon-Hotline ###
 
-Falls Sie telefonische Unterstützung benötigen, rufen Sie bitte auf der Hotline-Nummer **01525 848 56 54** an. Diese ist in der Regel von 10 - 23 Uhr besetzt. Wenn Ihr Anruf nicht entgegengenommen werden kann, hinterlassen Sie bitte eine Nachricht und Ihre Nummer für einen Rückruf auf dem Anrufbeantworter.
+Falls Sie telefonische Unterstützung benötigen, rufen Sie bitte auf der Hotline-Nummer **07042 130 63 08** an. Diese ist in der Regel von 10 - 23 Uhr besetzt. Wenn Ihr Anruf nicht entgegengenommen werden kann, hinterlassen Sie bitte eine Nachricht und Ihre Nummer für einen Rückruf auf dem Anrufbeantworter.
 
 ### Ergänzende Hinweise ###
 
