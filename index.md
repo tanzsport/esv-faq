@@ -8,7 +8,7 @@ comments: true
 
 ## Neuigkeiten ##
 
-* Hinweis zu Änderungen nach Antragseingang unter [Bestellung 2015](esv/bestellung2015.html#aenderungen) (16. Oktober 2015)
+* Hinweis zu Änderungen nach Antragseingang unter [Bestellung 2015](esv/bestellung2015.html#nderungen_nach_antragserfassung) (16. Oktober 2015)
 * Vorlagen für Clubsportwarte unter [Bestellung 2015](esv/bestellung2015.html) (03. Oktober 2015)  
 * Nutzungsbedingungen ID-Karte unter [Bestellung 2015](esv/bestellung2015.html) (29. September 2015)  
 * Informationen zur [Lizenz- und Startmarkenbestellung für 2015](esv/bestellung2015.html) (25. September 2015)  

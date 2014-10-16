@@ -28,7 +28,7 @@ Ab diesem Jahr wird die Anforderung der Start- und Lizenzmarken (Standard, Latei
 Falls Sie telefonische Unterstützung benötigen, rufen Sie bitte auf der Hotline-Nummer **07042 130 63 08** an. Diese ist in der Regel von 10 - 23 Uhr besetzt. Wenn Ihr Anruf nicht entgegengenommen werden kann, hinterlassen Sie bitte eine Nachricht und Ihre Nummer für einen Rückruf auf dem Anrufbeantworter.
 
 ### Ergänzende Hinweise ###
-<a name="aenderungen"> </a>
+
 #### Änderungen nach Antragserfassung ####
 
 Wichtigster Bestandteil der Erstellung eines ID-Kartenantrags ist, dass die Angaben im Antrag durch Vorlage eines Ausweisdokuments vom Verein geprüft werden müssen. Besonders sorgfältig sollte die Schreibweise der Namen und die korrekte Angabe des Geburtsdatums geprüft werden. Für eine reibungslose Umsetzung des Projekts sind die Vereine in der Verpflichtung ausschließlich geprüfte Anträge an die Geschäftsstelle zu übersenden.
