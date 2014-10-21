@@ -29,6 +29,17 @@ Falls Sie telefonische Unterstützung benötigen, rufen Sie bitte auf der Hotlin
 
 ### Ergänzende Hinweise ###
 
+### Namensüberprüfung mit Hilfe des Ausweisdokumentes ###
+
+Im Zusammenhang mit der Eingabe der Namen und deren Überprüfung mit Hilfe des Ausweisdokuments ist Folgendes zu beachten:
+
+####Angabe der Vornamen###
+Für den Kartenantrag ist es ausreichend einen Vornamen anzugeben, auch wenn mehrere Vornamen auf dem Ausweisdokument abgedruckt sind. Der Betroffene kann sich den Namen aussuchen, auch wenn dabei vermutlich immer der umgangssprachlich bekannte „Rufname“ genutzt wird. Den Begriff „Rufname“ gibt es im Übrigen seit sehr langer Zeit offiziell nicht mehr, vielmehr sind alle Vornamen gleichberechtigt und können nach Belieben genutzt werden.
+
+####Angabe der Nachnamen####
+Für die Überprüfung der Nachnamen gibt es zwei Fälle, die getrennt betrachtet werden müssen.
+
+**Fall 1) Namenüberprüfung bei deutscher Staatsbürgerschaft** (auch bei deutscher Staatsbürgerschaft im Rahmen einer doppelten Staatsbürgerschaft):Die Überprüfung der Nachnamen wird mit Hilfe des Ausweisdokuments vorgenommen. Auf der ID-Karte muss der Nachname laut Ausweisdokument eingetragen sein.**Fall 2) Namenüberprüfung ohne deutsche Staatsbürgerschaft**: Die Überprüfung der Nachnamen wird im Regelfall mit Hilfe des Ausweisdokuments vorgenommen. Auf der ID-Karte muss im Regelfall der Nachname laut Ausweisdokument eingetragen sein.Ausnahmen hierzu sind allein dann möglich, wenn Personen ohne deutsche Staatsbürgerschaft nach deutschem Recht geheiratet haben. In diesem Ausnahmefall ist es möglich, den Namen aus der Namensbescheinigung des Standesamtes (Bescheinigung über Erklärung zur Namensführung nach §46 Personenstandsverordnung) auf die ID-Karte zu übernehmen. Die Bescheinigung sollte nicht älter als einen Monat sein. Der Verein bestätigt in diesem Fall Einsicht in das Ausweisdokuments und gleichzeitig die Namensbescheinigung genommen zu haben.
 #### Änderungen nach Antragserfassung ####
 
 Wichtigster Bestandteil der Erstellung eines ID-Kartenantrags ist, dass die Angaben im Antrag durch Vorlage eines Ausweisdokuments vom Verein geprüft werden müssen. Besonders sorgfältig sollte die Schreibweise der Namen und die korrekte Angabe des Geburtsdatums geprüft werden. Für eine reibungslose Umsetzung des Projekts sind die Vereine in der Verpflichtung ausschließlich geprüfte Anträge an die Geschäftsstelle zu übersenden.

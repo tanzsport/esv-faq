@@ -8,6 +8,7 @@ comments: true
 
 ## Neuigkeiten ##
 
+* Hinweise zur Überprüfung der Namen anhand des Ausweisdokumentes unter [Bestellung 2015](esv/bestellung2015.html#namensberprfung-mit-hilfe-des-ausweisdokumentes) (21. Oktober 2015)
 * Hinweis zu Änderungen nach Antragseingang unter [Bestellung 2015](esv/bestellung2015.html#nderungen-nach-antragserfassung) (16. Oktober 2015)
 * Vorlagen für Clubsportwarte unter [Bestellung 2015](esv/bestellung2015.html) (03. Oktober 2015)  
 * Nutzungsbedingungen ID-Karte unter [Bestellung 2015](esv/bestellung2015.html) (29. September 2015)  
