@@ -9,14 +9,27 @@ comments: true
 
 ## Zertifizierung von Turnierprogrammen ##
 
-Im Rahmen der ESV Entwicklung werden die zukünftig zugelassenen Turnierprogramme (Turniersoftware) zunächst auf ihre Aktualität und Leistungsfähigkeit in Bezug auf die Vorschriften der gültigen TSO geprüft. Dazu ist eine 1. Zertifizierung notwendig.
+Folgende Programme waren bisher vom DTV empfohlen:
+
+* TPS · Ralf Pickelmann Computersysteme
+* TopTurnier · Stephan Rath Software
+* TAP · Dirk Domm Softwarevertrieb
+* ProTanz · Bernd Wiese Innovative Software-Lösungen
+
+Folgende Programme wurden für die Elektronische Sportverwaltung (ESV) zur Erst-Zertifizierung (Überprüfung der Vereinbarkeit mit der aktuellen TSO) eingereicht:
+
+* ProTanz · Olav Wilke/Bernd Wiese Innovative Software-Lösungen
+* TopTurnier · Stephan Rath Software
+
+Diese beiden Programme wurden vom DTV erst-zertifiziert und werden weiterhin empfohlen.
  
-Zu diesem Zweck müssen bis Ende Juni 2014 alle Turnierprogramme an die DTV Geschäftsstelle eingeschickt werden.
+Ein drittes Programm, das bisher nicht empfohlen war, wurde ebenfalls zur Zertifizierung eingereicht, kann aber mit Windows 8 nicht geöffnet werden und konnte daher noch nicht geprüft werden. Ein viertes Programm ist angekündigt, wurde aber noch nicht zur Zertifizierung eingereicht.
  
-Ein unabhängiges Gremium prüft dann die Software auf ihre Tauglichkeit.
+Die Programmentwickler erhalten demnächst die Vorgaben für die endgültige ESV Zertifizierung (Zweit-Zertifizierung). Nach Prüfung der Umsetzung dieser Vorgaben erfolgt dann die endgültige ESV Zertifizierung. Das Ergebnis wird an gleicher Stelle veröffentlicht.
  
-In einem 2. Schritt erhalten die Anbieter der erstzertifizierten Software die Anforderungen zur Zulassung als ESV Turniersoftware übermittelt und haben dann bis November 2014 Zeit, ihre Software zur ESV Zertifizierung einzusenden.
- 
-Ab Januar 2015 darf dann bei Turnieren nur noch ESV zertifizierte Software eingesetzt werden.
- 
-Anhang: [Zertifizierungsanforderungen](../assets/TurniersoftwareZertifizierungsanforderungen.pdf) für die erste Zertifizierung
+Bis auf Weiteres können alle nicht zertifizierten Programme, die mit der aktuellen TSO vereinbar sind, weiter eingesetzt werden, jedoch nicht über den 30.06.2015 hinaus.
+
+### Zertifizierungsanforderungen ###
+
+* [Stufe 1 (TSO)](../assets/TurniersoftwareZertifizierungsanforderungen.pdf)
+* Stufe 2 (ESV) folgt

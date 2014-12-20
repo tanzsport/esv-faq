@@ -8,6 +8,7 @@ comments: true
 
 ## Neuigkeiten ##
 
+* Aktuelle Informationen zur [Zertifizierung](esv/zertifizierung.html) (20. Dezember 2014)
 * Artikel zum [Thema Datenschutz und ESV](esv/datenschutz.html) (13. November 2014)
 * Hinweise zur Überprüfung der Namen anhand des Ausweisdokumentes unter [Bestellung 2015](esv/bestellung2015.html#namensberprfung-mit-hilfe-des-ausweisdokumentes) (21. Oktober 2014)
 * Hinweis zu Änderungen nach Antragseingang unter [Bestellung 2015](esv/bestellung2015.html#nderungen-nach-antragserfassung) (16. Oktober 2014)
