@@ -31,5 +31,16 @@ Bis auf Weiteres können alle nicht zertifizierten Programme, die mit der aktuel
 
 ### Zertifizierungsanforderungen ###
 
-* [Stufe 1 (TSO)](../assets/TurniersoftwareZertifizierungsanforderungen.pdf)
-* Stufe 2 (ESV) folgt
+#### Stufe 1 (TSO) ####
+
+* [Zertifizierungsanforderungen](../assets/TurniersoftwareZertifizierungsanforderungen.pdf)
+
+#### Stufe 2 (ESV) ###
+
+* [Zertifizierungsanforderungen (Version 1.0)](../assets/zertifizierung_stufe2/Anforderungen_1.0.pdf)
+* [Schnittstellendefinitionen (Version 1.4)](../assets/zertifizierung_stufe2/Schnittstellen_1.4.pdf)
+* [Vorgabe für Statusbescheinigungen ("Laufzettel")](../assets/zertifizierung_stufe2/Vorgabe_Statusbescheinigung.pdf)
+* [Vorgabe für WR-Zettel](../assets/zertifizierung_stufe2/Vorgabe_WRZettel.jpg)
+
+Detaillierte Erläuterungen zu den einzelnen Schnittstellen werden auf einer separaten Webseite veröffentlicht.
+

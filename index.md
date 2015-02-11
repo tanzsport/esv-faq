@@ -8,6 +8,7 @@ comments: true
 
 ## Neuigkeiten ##
 
+* [Dokumente zur Zertifizierung Stufe 2](esv/zertifizierung.html#stufe-2-esv) von (11. Februar 2015)
 * Aktuelle Informationen zur [Zertifizierung](esv/zertifizierung.html) (20. Dezember 2014)
 * Artikel zum [Thema Datenschutz und ESV](esv/datenschutz.html) (13. November 2014)
 * Hinweise zur Überprüfung der Namen anhand des Ausweisdokumentes unter [Bestellung 2015](esv/bestellung2015.html#namensberprfung-mit-hilfe-des-ausweisdokumentes) (21. Oktober 2014)
