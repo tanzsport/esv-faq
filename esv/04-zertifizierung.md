@@ -38,9 +38,9 @@ Bis auf Weiteres können alle nicht zertifizierten Programme, die mit der aktuel
 #### Stufe 2 (ESV) ###
 
 * [Zertifizierungsanforderungen (Version 1.0)](../assets/zertifizierung_stufe2/Anforderungen_1.0.pdf)
-* [Schnittstellendefinitionen (Version 1.4)](../assets/zertifizierung_stufe2/Schnittstellen_1.4.pdf)
+* [Schnittstellendefinitionen (Version 1.4.1)](../assets/zertifizierung_stufe2/Schnittstellen_1.4.1.pdf) - neu Stand 03. März 2015
 * [Vorgabe für Statusbescheinigungen ("Laufzettel")](../assets/zertifizierung_stufe2/Vorgabe_Statusbescheinigung.pdf)
 * [Vorgabe für WR-Zettel](../assets/zertifizierung_stufe2/Vorgabe_WRZettel.jpg)
 
-Detaillierte Erläuterungen zu den einzelnen Schnittstellen werden auf einer separaten Webseite veröffentlicht.
+Detaillierte Erläuterungen zu den einzelnen Schnittstellen werden auf [tanzsport.github.io/esv-interfaces](http://tanzsport.github.io/esv-interfaces/) veröffentlicht.
 
