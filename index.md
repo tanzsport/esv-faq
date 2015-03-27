@@ -8,7 +8,8 @@ comments: true
 
 ## Neuigkeiten ##
 
-* neue Schnittstellen-Definition unter [Dokumente zur Zertifizierung Stufe 2](esv/zertifizierung.html#stufe-2-esv) von (03. März 2015)
+* Zertifizierungsdokumente Version 1.6.0 [Dokumente zur Zertifizierung Stufe 2](esv/zertifizierung.html#stufe-2-esv) (27. März 2015)
+* neue Schnittstellen-Definition unter [Dokumente zur Zertifizierung Stufe 2](esv/zertifizierung.html#stufe-2-esv) (03. März 2015)
 * [Dokumente zur Zertifizierung Stufe 2](esv/zertifizierung.html#stufe-2-esv) von (11. Februar 2015)
 * Aktuelle Informationen zur [Zertifizierung](esv/zertifizierung.html) (20. Dezember 2014)
 * Artikel zum [Thema Datenschutz und ESV](esv/datenschutz.html) (13. November 2014)
