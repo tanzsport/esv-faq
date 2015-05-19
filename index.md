@@ -20,5 +20,3 @@ comments: true
 * Informationen zur [Lizenz- und Startmarkenbestellung für 2015](esv/bestellung2015.html) (25. September 2014)  
 * Weitere Informationen zum [Grenzverkehr](esv/faq.html#grenzverkehr) (06. Mai 2014)  
 * [Zertifizierung](esv/zertifizierung.html) von Turnierprogrammen (11. April 2014)
-## Details und Fragen ##In den [FAQs](esv/faq.html) (*frequently asked questions* = häufig gestellte Fragen) werden viele Details des neuen Systems erläutert. 
-Fragen, die bisher unbeantwortet sind, können per E-Mail an die [Arbeitsgruppe ESV](esv/arbeitsgruppe.html) oder direkt über die Kommentarfunktion gestellt werden. Die Antworten werden nach Möglichkeit auch in diese Webseite eingearbeitet.

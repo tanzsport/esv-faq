@@ -4,10 +4,13 @@ title: FAQs
 group: navigation
 permalink: /esv/faq.html
 comments: true
+
 ---
 {% include JB/setup %}
 
-## Themebereiche ##
+In den FAQs (*frequently asked questions* = häufig gestellte Fragen) werden viele Details des neuen Systems erläutert. 
+Fragen, die bisher unbeantwortet sind, können per E-Mail an die [Arbeitsgruppe ESV](esv/arbeitsgruppe.html) oder direkt über die Kommentarfunktion gestellt werden. Die Antworten werden nach Möglichkeit auch in diese Webseite eingearbeitet.
+## Themebereiche ##
 
 * [ID-Karten](#id-karten)
 * [Tanzspiegel](#tanzspiegel)
