@@ -1,0 +1,27 @@
+- text: Projekt
+  subitems:
+    - text: Änderungen
+      url: /esv/aenderungen.html
+    - text: Zeitplan
+      url: /esv/zeitplan.html
+    - text: FAQs
+      url: /esv/faq.html
+    - text: Zertifizierung
+      url: /esv/zertifizierung.html
+    - text: Datenschutz
+      url: /esv/datenschutz.html
+    - text: Arbeitsgruppe
+      url: /esv/arbeitsgruppe.html
+- text: Hilfe und Anleitungen
+  subitems:
+    - text: Aktivierung ID-Karte
+      url: /hilfe/aktivierung_idkarte.html
+    - text: Startmarkenbestellung 2015
+      url: /esv/bestellung2015.html
+      divider: true
+- text: Schulungen
+  subitems:
+    - text: Regionalkonferenzen
+      url: /schulungen/regionalkonferenzen.html
+    - text: Unterlagen
+      url: /schulungen/unterlagen.html
