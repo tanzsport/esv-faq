@@ -8,6 +8,9 @@ comments: true
 
 ## Neuigkeiten ##
 
+* [Anleitung zur Aktivierung der ID-Karte](hilfe/aktivierung_idkarte.html) (19.05.2015)
+* [Termine Regionalkonferenzen](schulungen/regionalkonferenzen.html) (19.05.2015)
+* [Schulungsunterlagen](schulungen/unterlagen.html) (19.05.2015)
 * Zertifizierungsdokumente Version 1.6.0 [Dokumente zur Zertifizierung Stufe 2](esv/zertifizierung.html#stufe-2-esv) (27. März 2015)
 * neue Schnittstellen-Definition unter [Dokumente zur Zertifizierung Stufe 2](esv/zertifizierung.html#stufe-2-esv) (03. März 2015)
 * [Dokumente zur Zertifizierung Stufe 2](esv/zertifizierung.html#stufe-2-esv) von (11. Februar 2015)
