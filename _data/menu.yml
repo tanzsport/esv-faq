@@ -1,5 +1,7 @@
 - text: Projekt
   subitems:
+    - text: Einleitung
+      url: /esv/einleitung.html
     - text: Änderungen
       url: /esv/aenderungen.html
     - text: Zeitplan
