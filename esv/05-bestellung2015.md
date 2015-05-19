@@ -13,15 +13,15 @@ Ab diesem Jahr wird die Anforderung der Start- und Lizenzmarken (Standard, Latei
 
 **Allgemeine Informationen**
 
-* [Anschreiben](../assets/JL_Anschreiben.pdf) der DTV-Geschäftsstelle
-* schrittweise [Anleitung](../assets/JL_Anleitung.pdf) für den Bestellprozess
-* [Anleitung](../assets/Anleitung_Bildbearbeitung_PictureManager.pdf) zur Bildbearbeitung mit Microsoft Picture Manager
-* [Nutzungsbedingungen ID-Karte](../assets/Nutzungsbedingungen_20140922.pdf)
+* [Anschreiben](../download/hilfe/bestellung2015/JL_Anschreiben.pdf) der DTV-Geschäftsstelle
+* schrittweise [Anleitung](../download/hilfe/bestellung2015/JL_Anleitung.pdf) für den Bestellprozess
+* [Anleitung](../download/hilfe/bestellung2015/Anleitung_Bildbearbeitung_PictureManager.pdf) zur Bildbearbeitung mit Microsoft Picture Manager
+* [Nutzungsbedingungen ID-Karte](../download/hilfe/bestellung2015/Nutzungsbedingungen_20140922.pdf)
 
 **Vorlagen für Clubsportwarte**
 
-* Vorlage für [Infoschreiben](../assets/Vorlage_Infoschreiben.doc)
-* Vorlage für vereinsinterne Checkliste: [Paare](../assets/Checkliste_Paare.doc) - [Lizenzträger](../assets/Checkliste_Lizenztraeger.doc)
+* Vorlage für [Infoschreiben](../download/hilfe/bestellung2015/Vorlage_Infoschreiben.doc)
+* Vorlage für vereinsinterne Checkliste: [Paare](../download/hilfe/bestellung2015/Checkliste_Paare.doc) - [Lizenzträger](../download/hilfe/bestellung2015/Checkliste_Lizenztraeger.doc)
 
 ### Telefon-Hotline ###
 
