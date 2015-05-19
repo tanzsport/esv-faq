@@ -33,14 +33,14 @@ Bis auf Weiteres können alle nicht zertifizierten Programme, die mit der aktuel
 
 #### Stufe 1 (TSO) ####
 
-* [Zertifizierungsanforderungen](../assets/TurniersoftwareZertifizierungsanforderungen.pdf)
+* [Zertifizierungsanforderungen](../download/esv/zertifizierung/stufe1/Anforderungen.pdf)
 
 #### Stufe 2 (ESV) ###
 
-* [Zertifizierungsanforderungen (Version 1.6.0)](../assets/zertifizierung_stufe2/Anforderungen_1.6.0.pdf) - neu Stand 25. März 2015
-* [Schnittstellendefinitionen (Version 1.6.0)](../assets/zertifizierung_stufe2/Schnittstellen_1.6.0.pdf) - neu Stand 25. März 2015
-* [Vorgabe für Statusbescheinigungen ("Laufzettel")](../assets/zertifizierung_stufe2/Vorgabe_Statusbescheinigung.pdf)
-* [Vorgabe für WR-Zettel](../assets/zertifizierung_stufe2/Vorgabe_WRZettel.jpg)
+* [Zertifizierungsanforderungen (Version 1.6.0)](../download/esv/zertifizierung/stufe2/Anforderungen_1.6.0.pdf) - neu Stand 25. März 2015
+* [Schnittstellendefinitionen (Version 1.6.0)](../download/esv/zertifizierung/stufe2/Schnittstellen_1.6.0.pdf) - neu Stand 25. März 2015
+* [Vorgabe für Statusbescheinigungen ("Laufzettel")](../download/esv/zertifizierung/stufe2/Vorgabe_Statusbescheinigung.pdf)
+* [Vorgabe für WR-Zettel](../download/esv/zertifizierung/stufe2/Vorgabe_WRZettel.jpg)
 
 Detaillierte Erläuterungen zu den einzelnen Schnittstellen werden auf [tanzsport.github.io/esv-interfaces](http://tanzsport.github.io/esv-interfaces/) veröffentlicht.
 
