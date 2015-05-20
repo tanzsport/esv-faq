@@ -16,4 +16,4 @@ comments: true
 Übersicht zu den wichtigsten Aufgaben und Verantwortlichkeiten in der Turnierleitung und im Turnierbüro
 
 * [Aufgaben der Turnierleitung](../download/schulungen/unterlagen/2015_Aufgaben_der_Turnierleitung.pdf)
-* [Aufgaben des Turnierbüros](../download/schulungen/unterlagen/2015_Aufgaben_des_Turnierbüros.pdf)
+* [Aufgaben des Turnierbüros](../download/schulungen/unterlagen/2015_Aufgaben_des_Turnierbueros.pdf)
