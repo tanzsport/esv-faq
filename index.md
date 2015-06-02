@@ -8,6 +8,7 @@ comments: true
 
 ## Neuigkeiten ##
 
+* [Schulungsunterlagen](schulungen/unterlagen.html) aktualisiert (02.06.2015)
 * [Video-Anleitung Startmeldewunsch (Paar)](hilfe/startmeldung_paar.html) (02.06.2015)
 * [Video-Anleitung Startmeldung (Verein)](hilfe/startmeldung_verein.html) (02.06.2015)
 * [Anleitung zur Aktivierung der ID-Karte](hilfe/aktivierung_idkarte.html) (19.05.2015)

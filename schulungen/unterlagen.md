@@ -9,7 +9,7 @@ comments: true
 
 ## Informationen für Sportwarte und Turnierleiter/Beisitzer ##
 
-[PDF-Abzug](../download/schulungen/unterlagen/Informationen_SportwarteTLBS.pdf) einer Powerpoint-Präsentation zur Schulung im Gebiet West
+[PDF](../download/schulungen/unterlagen/Informationen_SportwarteTLBS.pdf) einer Powerpoint-Präsentation zur Schulung im Gebiet West/Süd-West (Stand: 27. Mai 2015)
 
 ## Aufgaben Turnierleitung/Turnierbüro ##
 
