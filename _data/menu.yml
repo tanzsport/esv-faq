@@ -18,6 +18,10 @@
   subitems:
     - text: Aktivierung ID-Karte
       url: /hilfe/aktivierung_idkarte.html
+    - text: Startmeldewunsch (Paar)
+      url: /hilfe/startmeldung_paar.html
+    - text: Startmeldung (Verein)
+      url: /hilfe/startmeldung_verein.html
     - text: Startmarkenbestellung 2015
       url: /esv/bestellung2015.html
       divider: true

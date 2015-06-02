@@ -8,6 +8,8 @@ comments: true
 
 ## Neuigkeiten ##
 
+* [Video-Anleitung Startmeldewunsch (Paar)](hilfe/startmeldung_paar.html) (02.06.2015)
+* [Video-Anleitung Startmeldung (Verein)](hilfe/startmeldung_verein.html) (02.06.2015)
 * [Anleitung zur Aktivierung der ID-Karte](hilfe/aktivierung_idkarte.html) (19.05.2015)
 * [Termine Regionalkonferenzen](schulungen/regionalkonferenzen.html) (19.05.2015)
 * [Schulungsunterlagen](schulungen/unterlagen.html) (19.05.2015)
