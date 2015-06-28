@@ -8,6 +8,7 @@ comments: true
 
 ## Neuigkeiten ##
 
+* [Schulungsunterlagen](schulungen/unterlagen.html) aktualisiert (28.06.2015)
 * [Falls die ID-Karte noch nicht angekommen ist…](hilfe/aktivierung_idkarte.html)  (24.06.2015)
 * [Schulungsunterlagen](schulungen/unterlagen.html) aktualisiert (02.06.2015)
 * [Video-Anleitung Startmeldewunsch (Paar)](hilfe/startmeldung_paar.html) (02.06.2015)

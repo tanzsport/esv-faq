@@ -7,9 +7,11 @@ comments: true
 ---
 {% include JB/setup %}
 
-## Informationen für Sportwarte und Turnierleiter/Beisitzer ##
+## Schulungsunterlagen ##
 
-[PDF](../download/schulungen/unterlagen/Informationen_SportwarteTLBS.pdf) einer Powerpoint-Präsentation zur Schulung im Gebiet West/Süd-West (Stand: 27. Mai 2015)
+* [Schulung im Gebiet West/Süd-West](../download/schulungen/unterlagen/Informationen_SportwarteTLBS.pdf) (Stand: 27. Mai 2015)
+* [Regionalschulung Hannover/Berlin/Hamburg](../download/schulungen/unterlagen/Regionalschulung_Hannover_Berlin_Hamburg.pdf) (Stand: 28. Juni 2015)
+* [TL-Schulung Bad Saarow/Frankfurt](../download/schulungen/unterlagen/TL-Schulung_BadSaarow_Frankfurt.pdf) - Langversion der Regionalschulung Hannover/Berlin/Hamburg (Stand: 28. Juni 2015)
 
 ## Aufgaben Turnierleitung/Turnierbüro ##
 
