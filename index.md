@@ -8,6 +8,7 @@ comments: true
 
 ## Neuigkeiten ##
 
+* [Zertifizierte Turnierprogramme für die ESV](esv/zertifizierung.html) (29.08.2015)
 * [Schulungsunterlagen](schulungen/unterlagen.html) aktualisiert (28.06.2015)
 * [Falls die ID-Karte noch nicht angekommen ist…](hilfe/aktivierung_idkarte.html)  (24.06.2015)
 * [Schulungsunterlagen](schulungen/unterlagen.html) aktualisiert (02.06.2015)
